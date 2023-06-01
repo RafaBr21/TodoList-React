@@ -1,0 +1,26 @@
+.Section {
+    background: #1E6F9F;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100px;
+}
+
+.article {
+    display: flex;
+    width: 65%;
+}
+
+.title {
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 100px;
+    line-height: 100px;
+    color: #ffff;
+}
+
+.img_Capa {
+    width: 900px;
+    height: auto;
+}
